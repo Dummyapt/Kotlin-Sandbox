@@ -1,4 +1,4 @@
-package de.dummyapt.sandbox
+package de.dummyapt.kotlin_sandbox
 
 /**
  * You are working on a eCommerce website and need to make a shipping cost

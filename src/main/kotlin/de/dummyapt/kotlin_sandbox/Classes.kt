@@ -1,4 +1,4 @@
-package de.dummyapt.sandbox
+package de.dummyapt.kotlin_sandbox
 
 class User {
     var username = ""

@@ -1,4 +1,4 @@
-package de.dummyapt.sandbox
+package de.dummyapt.kotlin_sandbox
 
 /**
  * You are making a car parking software that needs to calculate

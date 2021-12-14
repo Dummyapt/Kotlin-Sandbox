@@ -1,4 +1,4 @@
-package de.dummyapt.sandbox
+package de.dummyapt.kotlin_sandbox
 
 /**
  * Each day a family consumes 15 liters of water.
